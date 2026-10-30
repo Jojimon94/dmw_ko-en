@@ -1,3 +1,12 @@
+Replace dm.exe and convert.jk
+in the game files to play the translated version. 
+You can edit both files by your own with Notepad++
+being careful not to mix up their sizes (number of bytes) or introduce incompatible characters.
+
+or, for the convert.jk file, you can massively translate the strings by using the
+Jojimon'a Tool.
+
+
 Jojimon's Tool - User Guide
 Introduction
 
@@ -20,14 +29,9 @@ Download and Preparation
 To use Jojimon's Tool as demonstrated in the tutorial video on my YouTube channel:
 
 Download the file:
-jojimon_tool.dat
-
-Rename it to:
 jojimon_tool.exe
 
 Launch the executable.
-
-Once renamed, the application can be used normally.
 
 How to Use Jojimon's Tool
 Step 1 - Load the Translation File
